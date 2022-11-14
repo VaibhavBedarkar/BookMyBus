@@ -31,7 +31,7 @@
 
 <h1 align="left">Screenshots</h1>
 
-<p align="center"> <img src="./webContent/ER_diagram.png" alt="Class Diagram" style="border-radius:20px"/> </p>
+<p align="center"> <img src="./webContent/Class Diagram.png" alt="Class Diagram" style="border-radius:20px"/> </p>
 
 ### Admin Controller
 
