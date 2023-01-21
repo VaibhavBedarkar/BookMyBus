@@ -63,7 +63,7 @@
 
 ## Authors
 
-| Contributors|Responsibility |
+| Contributors|Profile Link |
 | ------|------ |
 | Sumit Raghav | [@sumitraghavwork](https://github.com/sumitraghavwork) |
 | Suraj | [@suraj9716](https://github.com/suraj9716) |
